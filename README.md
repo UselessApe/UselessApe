@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Flutter and Dart. <br>🔭 I’m currently working for an ecommerce startup as a digital project manager and product owner.<br>👯 I’m looking to collaborate with anyone on mobile App Development or anything related to Flutter/Dart.<br>🤝 I’m looking for help with almost every topic a beginner can struggle with. :)<br>⚡ Fun fact - I was a licensed insurance intermediary for around 6 month and hated every second. Don't ask my why - I really don't know.
+🌱 I’m currently learning Flutter and Dart. <br>🔭 I’m currently working for an ecommerce startup as a digital project manager and product owner.<br>👯 I’m looking to collaborate with anyone on mobile App Development or anything related to Flutter/Dart.<br>🤝 I’m looking for help with almost every topic a beginner can struggle with. :)<br>⚡ Fun fact - I was a licensed insurance intermediary for around 6 month. Don't ask my why - I really don't know.
 
 
 # 💻 Tech Stack:
