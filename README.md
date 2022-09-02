@@ -9,10 +9,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=UselessApe&theme=nord&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=UselessApe&theme=nord&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=UselessApe&theme=nord&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=UselessApe&icon=2&color=1)](https://visitcount.itsvg.in)
